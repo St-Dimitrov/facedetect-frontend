@@ -1,6 +1,6 @@
 {
   "name": "facerecognition",
-  "homepage": "https://St-Dimitrov.github.io/facedetect",
+  "homepage": "https://St-Dimitrov.github.io/facedetect-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
